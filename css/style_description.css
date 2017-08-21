@@ -1,0 +1,116 @@
+#div_contenu {
+/*width:800px;*/
+width:785px; /* Modified 03-06-2014 */
+height:600px;
+border:0px solid red;
+position:relative;
+display:block;
+}
+
+#id_menu_description {
+border:1px solid #B2C6CD;
+width:35%;
+height:100%;
+float:left;
+position:relative;
+display:block;
+overflow:auto;
+}
+
+#id_description {
+border:0px solid #B2C6CD;
+width:100%;
+height:90%;
+position:absolute;
+display:block;
+}
+
+#div_titre {
+border:1px solid #B2C6CD;
+width:100%;
+height:10%;
+position:relative;
+display:block;
+font-family:verdana;
+font-size:12px;
+font-weight:bold;
+}
+
+#ttable {
+border-collapse: collapse;
+margin-left:5%;
+}
+
+#contenu_desc {
+border:1px solid #B2C6CD;
+width:65%;
+height:100%;
+left:35%;
+position:absolute;
+display:block;
+}
+
+.titre_th {
+background-color:#E6EEEE;
+font-weight:bold;
+font-family:verdana;
+font-size:13px;
+text-align:center;
+}
+
+.titre_td {
+text-align:center;
+font-weight:bold;
+font-family:verdana;
+font-size:12px;
+padding:5px;
+}
+
+.titre_type_traitement {
+background-color: #487790;
+color: #FFFFFF;
+font-family: verdana;
+font-size: 13px;
+font-weight: bold;
+height: 20px;
+text-align: center;
+}
+
+#table_description {
+width:100%;
+border:1px solid #B2C6CD;
+border-collapse:collapse;
+}
+
+#id_titre_desc {
+width:100%;
+border:1px solid #B2C6CD;
+border-collapse:collapse;
+}
+
+.class_td:hover {
+background-color: #E0DFE3;
+color:#3D6A98;
+font-weight:bold;
+cursor:pointer;
+}
+
+#id_titre_table_desc {
+width:90%;
+margin:auto;
+}
+
+#id_table_desc {
+border:1px solid #B2C6CD;
+width:90%;
+border-collapse:collapse;
+margin:auto;
+}
+
+#id_table_desc tr th{
+background-color:#E6EEEE;
+}
+
+.titre {
+color:#195A92;
+}

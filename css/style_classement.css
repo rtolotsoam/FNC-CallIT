@@ -1,0 +1,106 @@
+.btn_enreg {
+    color:#08233e;
+    font-family:Verdana;
+    font-size:11px;
+    /*margin: 10px auto;*/
+	/*padding: 6px 23px;*/
+    /*background:url(overlay.png) repeat-x center #ffcc00;*/
+    /*background-color:rgba(255,204,0,1);*/
+    background-color:#CCCCCC;
+    border:1px solid #000000;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    border-radius:10px;
+    border-bottom:1px solid #9f9f9f;
+    -moz-box-shadow:inset 0 1px 0 rgba(255,255,255,0.5);
+    -webkit-box-shadow:inset 0 1px 0 rgba(255,255,255,0.5);
+    box-shadow:inset 0 1px 0 rgba(255,255,255,0.5);
+    cursor:pointer;
+    display:block;
+    font-weight:bold;
+    padding: 2px;
+    width: 100px;
+}
+
+.btn_enreg:hover {
+    /*background-color:rgba(255,204,0,0.8);*/
+    background-color:#E0E9F5;
+}
+
+#id_div_tablesorter {
+	display: block;
+    height: 85%;
+    margin: 25px auto 0;
+    overflow: auto;
+    position: relative;
+    width: 95%;
+}
+
+#id_div2_tablesorter {
+	display: block;
+    height: 76%;
+    margin: 25px auto 0;
+    overflow: auto;
+    position: relative;
+    width: 95%;
+}
+
+.tablesorter {
+	background-color: #CDCDCD;
+    font-family: arial;
+    font-size: 8pt;
+    /*margin: 25px auto;*/
+    text-align: left;
+    width: 100%;
+}
+
+.tablesorter1 {
+	background-color: #CDCDCD;
+    font-family: arial;
+    font-size: 8pt;
+    /*margin: 25px auto;*/
+    text-align: left;
+    width: 100%;
+}
+
+.tablesorter thead tr th, table.tablesorter tfoot tr th {
+    background-color: #E6EEEE;
+    border: 1px solid #FFFFFF;
+    font-size: 8pt;
+    padding: 4px;
+}
+
+.tablesorter tbody tr td {
+    background-color: #FFFFFF;
+    color: #3D3D3D;
+    padding: 4px;
+    vertical-align: top;
+    cursor: move;
+}
+.tablesorter1 tbody tr td {
+    background-color: #FFFFFF;
+}
+
+.class_table_div2 {
+	padding-left:15px;
+	font-family:verdana;
+	font-size:11px;
+	font-weight:bold;
+}
+
+.class_table_div2 tbody tr th {
+	padding:5px;
+	text-align: left;
+}
+
+#id_table_class_pond {
+	border-collapse:collapse;
+	border:1px solid;
+}
+
+#id_div_ajout_typo {
+	background: #E6EEEE;
+	display: block;
+	position: relative;
+	padding: 15px 0;
+}

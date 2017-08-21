@@ -1,0 +1,151 @@
+
+#id_div_contenu_total {
+	width: 800px;
+	border: 1px none black;
+	display: block;
+	position: relative;
+	height: 100%;
+}
+
+#id_div_gauche {
+	border: 1px solid #B2C6CD;
+	height: 450px;
+	display: block;
+	position: relative;
+	width: 29%;
+	float: left;
+}
+
+#id_div_droite {
+	border: 1px solid #B2C6CD;
+	display: block;
+	height: 450px;
+	position: relative;
+	float: left;
+	width: 70%;
+}
+
+#id_div_penalite {
+	/*border-bottom: 1px solid #B2C6CD;*/
+	height: 23%;
+}
+
+#id_div_penalite table tr th {
+	font-family: verdana;
+	text-align: left;
+	font-size: 11px;
+	padding: 7px;
+}
+
+#id_div_penalite table {
+	margin: 10px 0 0 20px;
+}
+
+#id_div_contenu_penalite {
+	border-top: 1px solid #B2C6CD;
+	height: 67%;
+}
+
+#id_div_suppr_penalite {
+	border: 1px solid #487790;
+	height: 7%;
+	background: #B2C6CD;
+}
+
+#table_liste_classement {
+	font-size:11px;
+	font-family:verdana;	
+	width: 100%;
+	border: 1px solid #B2C6CD;
+	border-collapse: collapse;
+}
+
+#table_liste_classement tr th {
+	background: #487790;
+	font-weight: bold;
+	font-family: verdana;
+	font-size: 12px;
+	color: white;
+	height: 24px;
+}
+
+#table_liste_classement tr td {
+	font-family: verdana;
+	font-size: 11px;
+	height: 20px;
+}
+
+#table_liste_classement tr td:hover {
+	background:#E0DFE3;
+	color: #3D6A98;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.div_titre_classement {
+	width:auto;
+	display: block;
+	padding: 5px;
+	position: relative;
+	background: #B2C6CD;
+	font-size: 13px;
+	font-family: Verdana;
+	text-align: center;
+	font-weight: bold;
+	border: 1px solid #487790;
+	color: #305d8b;
+}
+
+.class_table_contenu {
+	border-collapse: collapse;
+	margin: 20px auto;
+	width: 80%;
+}
+
+.class_table_contenu thead tr th{
+	font-family: Verdana;
+	font-size: 11px;
+	border: 1px solid #487790;
+	padding: 4px;
+    text-align: center;
+}
+
+.class_table_contenu tbody tr td.td_contenu{
+	font-family: Verdana;
+	font-size: 11px;
+	border: 1px solid #487790;
+	padding: 4px;
+    text-align: center;
+}
+
+#id_table_contenu_penalite thead tr th {
+	width: 50%;
+}
+
+.div_table_new {
+	
+}
+
+.class_btn {
+	border:1px solid #487790;
+	cursor: pointer;
+	font-size: 11px;
+	font-family: Verdana;
+	font-weight: bold;
+	padding: 2px 12px;
+	border-radius: 5px;
+}
+
+.class_btn_ {
+	border:1px solid #487790;
+	/*cursor: pointer;*/
+	font-size: 11px;
+	font-family: Verdana;
+	font-weight: bold;
+	padding: 2px 12px;
+	border-radius: 5px;
+}
+
+.class_btn:hover {
+	color:#305D8B;
+}

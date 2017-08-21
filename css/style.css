@@ -1,0 +1,160 @@
+﻿
+#list_file{
+border:1px solid #58D3F7;
+border-radius:10px;
+background:#00BFFF;
+}
+
+.show_player{
+display:none;
+}
+
+.show_player  audio{
+width:565px;
+}
+.form_field{
+/**background:#58D3F7;*/
+}
+#form_block {
+    /**border: 1px solid #ccc;*/
+   /* width: 700px;*/
+    /**border-radius: 10px;*/
+    /*height: 94px;*/
+    /**background:#81F7F3;*/
+}
+#form_block h2{
+color:#0101DF;
+font-size:160%;
+font-family:Arial, Helvetica, sans-serif;
+}
+#search_result{
+color:#0040FF;
+}
+.cellule1{width:565px;}
+.tab_rows{
+text-align:center;
+
+}
+.tab_section{
+background:#ccc;
+}
+.tab_attitude{
+background:#000;
+color:#fff;
+}
+.titre_grille{
+color:#0040FF;
+}
+.link_btn{
+text-decoration:none;
+}
+#grille{
+border-radius:10px;
+width:700px;
+background:#00BFFF;
+border:1px solid #58D3F7;
+}
+.block_notation{
+    background: none repeat scroll 0 0 #E6EEEE;
+    border: 1px solid #ccc;
+    /**border-radius: 10px 10px 10px 10px;*/
+    height: 177px;
+    width: 700px;
+    padding-top:28px;
+}
+#update_done{
+
+width:250px;
+
+}
+#ui-datepicker-div
+{
+	border: none;
+}
+.inline{
+/*font-family:"Trebuchet MS";*/
+
+font-family: Arial,Helvetica,sans-serif;
+font-weight: bold;
+
+}
+input {
+    /** font-family: tahoma, verdana, sans-serif;*/
+    /**font-size: 1.1em;*/
+    font-size:10px;
+    /**margin-left: 5px;*/
+    padding-left: 2px;
+    padding-right: 3px;
+	 height: 20px;
+}
+.input_notation{
+width:333px;
+height:18px;
+}
+.input_edit{
+width:332px;
+}
+.retour_notation{
+width:129px;
+}
+.audio_player{
+border:1px solid #ccc;
+width:700px;
+background: none repeat scroll 0 0 #E6EEEE;
+}
+.audio_player audio{
+padding:20px 0;
+margin:0 auto;
+width:454px;
+}
+
+.pagedisplay
+{
+	border: none; 
+}
+tr.new_categ  > td{
+border-top:2px solid #000 !important;
+}
+.select_note{
+height:21px;
+width:69px;
+}
+/*#interface_projet{
+   background: none repeat scroll 0 0 #E6EEEE;
+    border: 1px solid #CCCCCC;
+    height: 177px;
+    padding-top: 28px;
+    width: 700px;
+}*/
+#table_interface tr td select{
+width:245px;
+}
+#champ_projet{
+width:235px;
+}
+td textarea.accueil_comment{
+border:none;
+}
+select#projet_champ {
+width: 334;
+height:22px;
+}
+.red_border{
+border:1px solid red;
+}
+#ui-datepicker-div{
+width:300px;
+height:120px;
+}
+select, option {
+    background-color: #EFEFEF;
+    font-size: 10px;
+    width: 225px;
+}
+#display_total span{
+
+color:red;
+}
+#display_total {
+text-align:center;
+}

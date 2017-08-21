@@ -1,0 +1,92 @@
+﻿
+
+2-1 - Situation actuelle
+Les ré-écoutes sont réalisées par les superviseurs, avec des grilles au format Excel.
+
+•	stockage des grilles d'écoute aléatoire, chaque superviseur a sa propre gestion (sur PC, dans la GED dans différents répertoires…)
+•	absence d'outils de planification et de suivi des réalisations
+•	absence d'états de synthèse à tous les niveaux (individuels, équipe, atelier)
+
+
+2-2 - Objectif du projet
+Les objectifs sont multiples :
+•	uniformiser les outils utilisés par les superviseurs
+•	améliorer le suivi des ré-écoutes en les automatisant
+•	centraliser les grilles et les états de synthèse
+•	se mettre en conformité par rapport à la norme NF345
+
+
+Les fonctionnalités de l'outils
+- Interface d'écoute
+- Interface de notation 
+	commentaire obligatoire
+	commentaire générale obligatoire
+	objectif obligatoire	
+
+- Interface de suivi (visualisation / modification / suppression)
+- Interface pour la synthèse
+- Interface pour les indicateurs NF
+
+Remarques : 
+- 1 TLC ne vera que ses grilles
+
+/****************************************************************************************/
+/************ 28/08/2014 ****************************************************************/
+Situation actuelle pour cc_sr(ré-écoute):
+
+Liste des fichiers utilisés:
+	Pour la synthese:
+	- recap_synthes.php
+	- function_recap_synthese.php
+	- synthese_dynamique_.php
+	- function_synthese_dynamique.php
+	- css/style_synthese.css
+	
+	Exportation excel dans la synthese:
+	- export_reporting.php
+	- export_reporting_global_.php
+	- export_tdb.php
+	- export_style.php
+	- function_tdb.php
+	
+	Pour la notation:
+	- filtre_dynamique.php
+	- function_filtre_dynamique.php
+	- grille_dynamique.php
+	- function_dynamique.php
+	- js/script_maquette.js
+	- nc_fiche_si.php
+	- insert_fnc_si.php
+	- delete_nc_si.php
+	- insert_fnc.php
+	- nc_fiche.php
+	- nc_mail.php
+	
+	
+	Pour la gestion des questionnaires:
+	- gest_questionnaire.php
+	
+	Pour la gestion des grilles:
+	- wizard_2.php (dans le menu projet)
+	- wizard_3.php (dans le menu notation)
+	- ajax_notation_1.php
+	- ajax_grille.php
+	- admin_type.php
+	
+	Pour la gestion des notes:
+	- description.php
+	- function_description.php
+	
+	Pour la gestion des classements:
+	- classement.php
+	- function_classement.php
+	
+	Pour la gestion des pénalités:
+	- penalite.php
+	- function_penalite.php
+	
+	Pour la duplication des grilles:
+	- duplication.php
+	
+	
+	

@@ -1,0 +1,15 @@
+#div_contenu {
+border:1px solid red;
+display:block;
+position:relative;
+width:100%;
+}
+
+#id_table_principale {
+border-collapse:collapse;
+width:100%;
+}
+
+#id_table_principale tr th, #id_table_principale tr td {
+border: 1px solid #7799A4;
+}
